@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "744349056296",
+    "project_id": "betathome-5d899",
+    "storage_bucket": "betathome-5d899.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744349056296:android:923a46deed1530f541e41d",
+        "android_client_info": {
+          "package_name": "com.bah.casinoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744349056296-ljsqdjo0oalchjk2sftm4j7ggh36qf5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWzkkP4kNkJQPfCBAIlon5eCW16MAz_9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744349056296-ljsqdjo0oalchjk2sftm4j7ggh36qf5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744349056296:android:41aa9ab03b08708941e41d",
+        "android_client_info": {
+          "package_name": "com.bah.sportsapp.release"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744349056296-ljsqdjo0oalchjk2sftm4j7ggh36qf5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWzkkP4kNkJQPfCBAIlon5eCW16MAz_9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744349056296-ljsqdjo0oalchjk2sftm4j7ggh36qf5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
